@@ -10,7 +10,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/Fuji-ren/Adfurikun-SPM-Core.git",
-            exact: "4.4.2"
+            exact: "4.4.3"
         ),
     ],
     targets: [
